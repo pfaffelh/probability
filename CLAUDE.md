@@ -16,7 +16,7 @@ Scaffolded from `leanprover/verso-blueprint` at tag `v4.29.0`.
 - Lean: `leanprover/lean4:v4.29.0` (pinned in `lean-toolchain`)
 - Lake deps (`lakefile.lean`):
   - `verso` @ `v4.29.0`
-  - `verso-blueprint` @ `main`
+  - `verso-blueprint` @ `v4.29.0`
   - `mathlib4` @ `v4.29.0`
 
 `lake update` pulls a large dep tree (Mathlib). Don't run it unless asked.

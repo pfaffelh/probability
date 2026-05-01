@@ -2,7 +2,7 @@ import Lake
 open Lake DSL
 
 require verso from git "https://github.com/leanprover/verso"@"v4.29.0"
-require VersoBlueprint from git "https://github.com/leanprover/verso-blueprint"@"main"
+require VersoBlueprint from git "https://github.com/leanprover/verso-blueprint"@"v4.29.0"
 require mathlib from git "https://github.com/leanprover-community/mathlib4"@"v4.29.0"
 
 package Probability where
