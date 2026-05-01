@@ -1,0 +1,4 @@
+.lake/
+.build/
+_out/
+.claude/settings.local.json
